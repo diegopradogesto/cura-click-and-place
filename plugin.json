@@ -1,0 +1,8 @@
+{
+    "name": "Click and Place",
+    "author": "Diego Prado Gesto",
+    "version": "0.0.1",
+    "description": "Allows the user to orientate the model by selecting which face should be touching the buildplate.",
+    "supported_sdk_versions": ["6.0.0"],
+    "i18n-catalog": "cura"
+}
